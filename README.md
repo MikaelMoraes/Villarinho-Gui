@@ -27,7 +27,3 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villarinho-Gui&layout=compact&theme=vision-friendly-dark" alt="Villarinho-Gui's most languages"/>
 </p>
 -->
-
-<a href="linkedin.com/in/dev-ux-guilherme-villarinho" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-dev-ux-guilherme-villarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
