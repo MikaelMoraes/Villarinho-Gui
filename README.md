@@ -19,8 +19,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
@@ -30,5 +29,5 @@
 -->
 
 <a href="linkedin.com/in/dev-ux-guilherme-villarinho" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Villarinho-Gui-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-dev-ux-guilherme-villarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
