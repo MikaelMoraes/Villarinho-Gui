@@ -3,14 +3,6 @@
 <h1 align="center"> and I will help you develop thinking about user experience.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Villarinho-Gui&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Júnior Web Developer 
-
-- 🔭 I’m currently working at [Cinbal]
-
-- 💬 Ask me about **React JS, JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
